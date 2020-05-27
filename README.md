@@ -8,7 +8,7 @@ If you are looking for a console Windows/Linux version, refer to this link [http
 
 ![alt text](screenshots/ss3_run.png "SoliditySHA3Miner GUI")
 
-## Quick Start guide (for mining 0xbitcoin)
+## Quick Start guide (for mining 0xRP)
 ![alt text](screenshots/ss3_initial.png)
 
 1) Click on the yellow "i" icon on the top left to download and install the latest miner.
